@@ -1,4 +1,4 @@
-# AI Evaluation & Quality Portfolio | Jane Ifeoma Ugwu
+AI Evaluation & Quality Portfolio
 
 Professional repository documenting 6 months of structured AI evaluation, 
 RLHF simulation, and RAG quality assurance.
