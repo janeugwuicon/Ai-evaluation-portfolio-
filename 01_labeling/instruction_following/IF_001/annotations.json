@@ -1,0 +1,25 @@
+{
+  "prompt_id": "IF_001",
+  "preferred_response": "B",
+  "evaluation_summary": "Model B got the job done because it followed the 50-word limit and respected the negative constraints perfectly. Model A, on the other hand, really dropped the ball on the length requirement, coming in at just 39 words.",
+  "annotations": [
+    {
+      "response_id": "A",
+      "format_correct": false,
+      "constraints_met": false,
+      "error_type": "word_count_violation",
+      "note": "This one is too short. It only gave me 39 words when the prompt specifically asked for 50. It missed the mark completely on length."
+    },
+    {
+      "response_id": "B",
+      "format_correct": true,
+      "constraints_met": true,
+      "error_type": null,
+      "note": "Spot on. It hit the word count exactly and didn't slip up on any of the rules."
+    }
+  ],
+  "metadata": {
+    "annotated_by": "Jane Ifeoma Ugwu",
+    "annotated_at": "2026-02-05T19:10:00Z"
+  }
+}

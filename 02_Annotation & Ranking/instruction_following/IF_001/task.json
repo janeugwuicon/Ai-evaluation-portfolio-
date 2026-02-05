@@ -1,0 +1,17 @@
+{
+  "prompt_id": "IF-001",
+  "prompt_text": "Write a 50-word product description for a red shoe. Do not use the word 'red' or 'shoe' or any synonyms for footwear.",
+ 
+  "responses": [
+    {
+       "model": "gpt-4",
+      "response_id": "A",
+      "text": "This stylish footwear item blends comfort..."
+    },
+    {
+      "model": "Llama 3.1",
+      "response_id": "B",
+      "text": "Designed for everyday comfort..."
+    }
+  ],
+  "created_at": "2026-01-14T10:32:00Z"}

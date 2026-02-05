@@ -1,0 +1,16 @@
+{
+  "prompt_id": "IF-001",
+  "prompt_text": "Write a 50-word product description for a red shoe. Do not use the word 'red' or 'shoe' or any synonyms for footwear.",
+  "responses": [
+    {
+      "model": "Control Model (Industry Benchmark): GPT-4o",
+      "response_id": "A",
+      "text": "Discover a vibrant addition to your wardrobe with this striking accessory. Featuring a bold hue, this item complements any outfit with its eye-catching appeal. Designed for comfort and style, it enhances your ensemble with flair. Perfect for any occasion, its lively tone ensures you stand out effortlessly."
+    },
+    {
+      "model": "Challenger Model (Deployment Candidate): Llama 3.1",
+      "response_id": "B",
+      "text": "Elevate your style with our vibrant, crimson stunner. Crafted from rich, supple leather, this sleek design boasts a bold, eye-catching hue. A perfect blend of sophistication and whimsy, it's a statement piece that's sure to turn heads. Pair it with a dress, pants, or skirt for a look that exudes confidence."
+    }
+  ],
+  "created_at": "2026-01-14T10:32:00Z"}

@@ -1,0 +1,14 @@
+{
+  "prompt_id": "IF_001",
+
+  "task_type": "instruction_following",
+
+  "prompt_text": "The Formatting Hard-Stop: List 5 benefits of honey. Return the answer in valid JSON format only.",
+  
+  "constraints": [
+    "exactly_50_words",
+
+    "forbidden_words: red, shoe"
+  ],
+  "created_at": "2026-01-14T10:32:00Z"
+}

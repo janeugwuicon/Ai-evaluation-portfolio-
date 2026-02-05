@@ -1,0 +1,41 @@
+{
+  "prompt_id": "IF-002",
+  "prompt_text": "List 5 benefits of honey. Return the answer in valid JSON format only.",
+  "responses": [
+    {
+      "model": "Control Model (Industry Benchmark): GPT-4o",
+      "response_id": "A",
+      "text":{
+      
+    "benefits": [
+    {
+      "benefit": "Natural sweetener",
+      "description": "Honey is a healthier alternative to refined sugars."
+    },
+    {
+      "benefit": "Rich in antioxidants",
+      "description": "Contains compounds that can help protect the body from oxidative stress."
+    },
+    {
+      "benefit": "Antibacterial properties",
+      "description": "Useful in treating wounds and burns due to its antibacterial effects."
+    },
+    {
+      "benefit": "Soothing for sore throats",
+      "description": "Can help alleviate irritation and discomfort associated with throat infections."
+    },
+    {
+      "benefit": "Supports digestive health",
+      "description": "May aid digestion and promote a healthy gut."
+    }
+  ]
+}
+
+    },
+    {
+      "model": "Challenger Model (Deployment Candidate): Llama 3.1",
+      "response_id": "B",
+      "text": [ { "id": "1", "benefit": "Antibacterial properties" }, { "id": "2", "benefit": "Anti-inflammatory properties" }, { "id": "3", "benefit": "Wound healing" }, { "id": "4", "benefit": "Energy boost" }, { "id": "5", "benefit": "Antioxidant properties" } ]
+    }
+  ],
+  "created_at": "2026-01-14T10:32:00Z"}

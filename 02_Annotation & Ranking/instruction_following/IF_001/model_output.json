@@ -1,0 +1,15 @@
+{
+  "prompt_id": "IF-002",
+  "prompt_text": "List 5 benefits of honey. Return the answer in valid JSON format only. Do not include any markdown code blocks, introductory text, or closing remarks.",
+  "model": "gpt-4",
+  "responses": [
+    {
+      "response_id": "A",
+      "text": "This stylish footwear item blends comfort..."
+    },
+    {
+      "response_id": "B",
+      "text": "Designed for everyday comfort..."
+    }
+  ],
+  "created_at": "2026-01-14T10:32:00Z"}

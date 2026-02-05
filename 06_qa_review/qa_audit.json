@@ -1,0 +1,11 @@
+{
+  "issues_found": [
+    "Inconsistent instruction_violation labeling",
+    "RAG prompts: partial context ignored"
+  ],
+  "corrections_applied": [
+    "Standardized instruction priority",
+    "Added cross-check against context"
+  ],
+  "qa_summary": "Consistency improved after recalibration."
+}

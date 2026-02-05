@@ -1,0 +1,14 @@
+{
+  "prompt_id": "IF_001",
+
+  "task_type": "instruction_following",
+
+  "prompt_text": "The Negative Constraint: Write a 50-word product description for a red shoe. Do not use the word 'red' or 'shoe' or any synonyms for footwear.",
+  
+  "constraints": [
+    "exactly_50_words",
+
+    "forbidden_words: red, shoe"
+  ],
+  "created_at": "2026-01-14T10:32:00Z"
+}
